@@ -1,4 +1,4 @@
-## Get Started
+## Get Started Luka React
 
 This guide describes how to use DigitalOcean App Platform to run a sample React application.
 
