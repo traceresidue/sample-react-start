@@ -17,10 +17,10 @@ export default function App() {
           style={{ animationDuration: "30s" }}
           src={logo}
           alt="React Logo"
-          width="300"
+          width="20"
         />
-        <img className="opacity-25" src={logo} alt="React Logo" width="300" />
-        <img className="opacity-25" src={logo} alt="React Logo" width="300" />
+        <img className="opacity-25" src={logo} alt="React Logo" width="30" />
+        <img className="opacity-25" src={logo} alt="React Logo" width="10" />
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div>
 
